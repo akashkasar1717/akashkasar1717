@@ -1,4 +1,4 @@
-# Welcome to [Akash Kasar's] profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Akash Kasar's](https://aswinbarath.me/) profile! <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/akash-kasar-a26177234" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash" height="30" width="40" /></a>
 &nbsp;
